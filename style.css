@@ -23,7 +23,7 @@ body {
     text-align: center;
     padding: 20px;
     border-radius: 10px;
-    border: 4px solid #5BBE42;
+    border: 4px solid #aa092e;
     animation: borderTransition 2s infinite alternate; 
 }
 
@@ -75,7 +75,7 @@ body {
 }
 
 p:hover {
-    color: green; 
+    color: rgb(128, 0, 70); 
     font-weight: bold;
 }
 
@@ -87,7 +87,7 @@ p:hover {
     width: 100%;
     background: transparent;
     border-radius: 3px;
-    box-shadow: 0px 8px 10px rgba(0, 0, 0, .5);
+    box-shadow: 0px 8px 10px rgba(171, 8, 54, 0.5);
 }
 
 .relogio div {
@@ -97,7 +97,7 @@ p:hover {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: #6b811a;
+    color: #b41447;
     background: rgba(5, 5, 5, .9);
     box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
     border-radius: 7px;
